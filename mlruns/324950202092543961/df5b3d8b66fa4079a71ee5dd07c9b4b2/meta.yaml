@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyansh/Ml-ops_assignment/mlruns/324950202092543961/df5b3d8b66fa4079a71ee5dd07c9b4b2/artifacts
+end_time: 1730185810142
+entry_point_name: ''
+experiment_id: '324950202092543961'
+lifecycle_stage: active
+run_id: df5b3d8b66fa4079a71ee5dd07c9b4b2
+run_name: Random_Forest
+run_uuid: df5b3d8b66fa4079a71ee5dd07c9b4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730185787794
+status: 3
+tags: []
+user_id: shreyansh

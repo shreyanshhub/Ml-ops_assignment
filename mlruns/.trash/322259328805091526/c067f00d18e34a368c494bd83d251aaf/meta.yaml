@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/shreyansh/Ml-ops_assignment/mlruns/322259328805091526/c067f00d18e34a368c494bd83d251aaf/artifacts
+deleted_time: 1730185641338
+end_time: 1730185622649
+entry_point_name: ''
+experiment_id: '322259328805091526'
+lifecycle_stage: deleted
+run_id: c067f00d18e34a368c494bd83d251aaf
+run_name: Random_Forest
+run_uuid: c067f00d18e34a368c494bd83d251aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730185424646
+status: 4
+tags: []
+user_id: shreyansh

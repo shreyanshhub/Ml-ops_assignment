@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/shreyansh/Ml-ops_assignment/mlruns/322259328805091526/e74efce487ad4a5ea3be24c25af222cb/artifacts
+deleted_time: 1730185641338
+end_time: 1730185424641
+entry_point_name: ''
+experiment_id: '322259328805091526'
+lifecycle_stage: deleted
+run_id: e74efce487ad4a5ea3be24c25af222cb
+run_name: Linear_Regression
+run_uuid: e74efce487ad4a5ea3be24c25af222cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730185416055
+status: 3
+tags: []
+user_id: shreyansh

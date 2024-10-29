@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyansh/Ml-ops_assignment/mlruns/324950202092543961/2951049fa7414f6aaca367d4aaa92d52/artifacts
+end_time: 1730185787790
+entry_point_name: ''
+experiment_id: '324950202092543961'
+lifecycle_stage: active
+run_id: 2951049fa7414f6aaca367d4aaa92d52
+run_name: Linear_Regression
+run_uuid: 2951049fa7414f6aaca367d4aaa92d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730185780539
+status: 3
+tags: []
+user_id: shreyansh
